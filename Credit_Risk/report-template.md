@@ -1,5 +1,3 @@
-# Module 12 Report Template
-
 ## Overview of the Analysis
 
 The purpose of the analysis is to build a logistic regression model that can identify the creditworthiness of borrowers
